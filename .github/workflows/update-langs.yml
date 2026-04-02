@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # 毎週日曜 0:00 UTC
+    - cron: '30 2 * * *'  # 毎日 2:30 UTC
   workflow_dispatch:
 
 permissions:

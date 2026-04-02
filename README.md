@@ -1,7 +1,7 @@
 # GitHub Stats
 
 公開リポジトリの言語割合を集計し、GitHub Pages で公開する。  
-現在は毎週（日曜 00:00 UTC）に実行（`.github/workflows/update-langs.yml` の cron を編集)
+現在は毎日（02:30 UTC）に実行（`.github/workflows/update-langs.yml` の cron を編集）
 
 ## セットアップ
 
